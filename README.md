@@ -1,7 +1,7 @@
 # myhost
 Auto bind host ip to your customer domain record
 
-`myhost help`
+`myhost --help`
 ```shell script
 NAME:
    myhost - 将本机的ip直接设置到域名
