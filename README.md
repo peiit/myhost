@@ -1,6 +1,9 @@
 # myhost
 Auto bind host ip to your customer domain record
 
+[![GitHub](https://img.shields.io/github/license/peiit/myhost)](https://github.com/peiit/myhost/bfe/blob/main/LICENSE)
+
+
 `myhost --help`
 ```shell script
 NAME:
