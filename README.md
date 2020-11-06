@@ -2,6 +2,7 @@
 Auto bind host ip to your customer domain record
 
 [![GitHub](https://img.shields.io/github/license/peiit/myhost)](https://github.com/peiit/myhost/bfe/blob/main/LICENSE)
+[![Build Status](https://travis-ci.com/peiit/myhost.svg?branch=main)](https://travis-ci.com/peiit/myhost)
 
 
 `myhost --help`
